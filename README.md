@@ -1,4 +1,4 @@
-Configuração do servidor python (computador local linux)
+Configuração do servidor python (computador local linux) utilizando Terminal Ctrl + Alt + T
 
 Instalar o Python<br>
 O servidor que gera os gráficos é escrito em Python.<br>
