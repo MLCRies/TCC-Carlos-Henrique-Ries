@@ -1,6 +1,6 @@
 Configuração do servidor python (computador local linux)
 
-Instalar o Python
+Instalar o Python<br>
 O servidor que gera os gráficos é escrito em Python.
 Instalar o Python 3 e o Pip.
 Criar um ambiente virtual (venv) para isolar as dependências.
