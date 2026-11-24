@@ -23,3 +23,6 @@ nano server.py<br>
 (Após colar o código Python, salve com Ctrl+O, Enter, e saia com Ctrl+X)<br>
 Roda o servidor. Como o ambiente virtual está ativo, o comando 'python' usa o Python correto.<br>
 python server.py<br>
+____________________________________________________________________
+
+![Sketch do circuito do sistema de monitoramento da estação meteorológica](./Sketch.png)
