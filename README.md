@@ -24,5 +24,5 @@ nano server.py<br>
 Roda o servidor. Como o ambiente virtual está ativo, o comando 'python' usa o Python correto.<br>
 python server.py<br>
 ____________________________________________________________________
-
+Sketch do circuito para ligar a plataforma ESP8266 com o sensor e a fonte de energia:<br>
 ![Sketch do circuito do sistema de monitoramento da estação meteorológica](./Sketch.png)
